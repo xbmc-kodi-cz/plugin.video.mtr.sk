@@ -1,2 +1,9 @@
+[B]1.1.0:[/B] 21.01.2022 - jastrab
+- kodi 19
+- aktualizovaná ikonka pluginu
+- pridany videoarchiv
+- pridane popisy
+- pridane obrazky
+
 [B]1.0.0:[/B]
 Initial version
