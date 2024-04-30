@@ -19,9 +19,10 @@ Video:
 ![Snímka obrazovky_2024-04-30_15-59-57](https://github.com/jastrab/plugin.video.mtr.sk/assets/6190406/4dd68bb9-6a0f-49c2-8ed7-4d08bdbca3fb)
 
 
-Changelog:
+_Changelog_:
 
 **1.1.0**: - 21.01.2022 - jastrab
+
 - podpora pre kodi 19
 - aktualizovaná ikonka pluginu
 - pridaný **videoarchív**
@@ -29,4 +30,5 @@ Changelog:
 - pridané obrázky
 
 **1.0.0:**
-Initial version
+
+- Initial version
