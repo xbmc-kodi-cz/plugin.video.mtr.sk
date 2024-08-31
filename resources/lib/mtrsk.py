@@ -101,7 +101,7 @@ class MtrSkContentProvider(ContentProvider):
 
         item = self.video_item()
         item['title'] = '[COLOR=grey]Sledovať online[/COLOR]'
-        item['url'] = 'rtmp://kdah.mtr.sk/oflaDemo/livestream live=true'
+        item['url'] = 'https://cdnsk003.panaccess.com/local/Ruzomberok/index.m3u8'
         item['img'] = 'https://www.mtr.sk/video/10942_big.jpg'
         item['plot'] = 'Sleduj online Mestská TV Ružomberok'
         result.append(item)
