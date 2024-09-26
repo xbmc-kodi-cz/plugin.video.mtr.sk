@@ -21,6 +21,11 @@ Video:
 
 _Changelog_:
 
+
+**1.1.1**: - 26.09.2024
+
+- fix live stream - JanoHD
+
 **1.1.0**: - 21.01.2022 - jastrab
 
 - podpora pre kodi 19
